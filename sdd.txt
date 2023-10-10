@@ -1,4 +1,6 @@
 hellow world 
 hi
 it is tuesday
- 
+ hi 
+this is new change added to file
+hellow this is 2nd commit
